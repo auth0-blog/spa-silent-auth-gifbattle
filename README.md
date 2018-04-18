@@ -2,6 +2,8 @@
 
 The Gif Battle app demonstrates how you can implement [silent authentication](https://auth0.com/docs/api-auth/tutorials/silent-authentication) in Single Page Applications so that you do not persist JSON Web Tokens in localStorage or SessionStorage. 
 
+You can see a fully working demo on [CodePen](https://codepen.io/kukicadnan/full/VxwOpE/).
+
 ## Prerequisities
 
 * Auth0 Account - [Sign up for Free](https://auth0.com/signup)
